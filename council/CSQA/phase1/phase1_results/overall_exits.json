@@ -1,0 +1,2704 @@
+{
+  "overall_early_exit": {
+    "0": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "1": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "2": {
+      "exit": true,
+      "answer": "B",
+      "model_predictions": [
+        "B",
+        "B",
+        "B"
+      ]
+    },
+    "3": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "4": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "5": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "6": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "7": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "D"
+      ]
+    },
+    "8": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "9": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "10": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "C",
+        "NA"
+      ]
+    },
+    "11": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "12": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "13": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "14": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "15": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "16": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "17": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "NA",
+        "NA",
+        "NA"
+      ]
+    },
+    "18": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "19": {
+      "exit": true,
+      "answer": "D",
+      "model_predictions": [
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    "20": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "21": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "22": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "23": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "24": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "25": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "26": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "27": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "28": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "29": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "30": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "31": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "B",
+        "NA"
+      ]
+    },
+    "32": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "33": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "A",
+        "D"
+      ]
+    },
+    "34": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "35": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "36": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "C"
+      ]
+    },
+    "37": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "38": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "39": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "40": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "41": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "42": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "NA",
+        "D",
+        "NA"
+      ]
+    },
+    "43": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "44": {
+      "exit": true,
+      "answer": "D",
+      "model_predictions": [
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    "45": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "46": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "B",
+        "NA"
+      ]
+    },
+    "47": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "48": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "49": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "A",
+        "NA"
+      ]
+    },
+    "50": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "51": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "52": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "D"
+      ]
+    },
+    "53": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "54": {
+      "exit": true,
+      "answer": "D",
+      "model_predictions": [
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    "55": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "56": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "57": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "D",
+        "NA"
+      ]
+    },
+    "58": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "59": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "A"
+      ]
+    },
+    "60": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "NA",
+        "E",
+        "NA"
+      ]
+    },
+    "61": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "62": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "63": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "64": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "A"
+      ]
+    },
+    "65": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "66": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "67": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "D",
+        "NA"
+      ]
+    },
+    "68": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "C"
+      ]
+    },
+    "69": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "NA",
+        "C",
+        "NA"
+      ]
+    },
+    "70": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "71": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "72": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "73": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "74": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "A",
+        "NA"
+      ]
+    },
+    "75": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "A",
+        "NA"
+      ]
+    },
+    "76": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "77": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "D",
+        "NA"
+      ]
+    },
+    "78": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "79": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "A",
+        "D"
+      ]
+    },
+    "80": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "81": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "82": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "83": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "84": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "C",
+        "NA"
+      ]
+    },
+    "85": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "86": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "87": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "88": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "A"
+      ]
+    },
+    "89": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "90": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "C"
+      ]
+    },
+    "91": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "92": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "93": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "94": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "95": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "96": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "97": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "98": {
+      "exit": true,
+      "answer": "B",
+      "model_predictions": [
+        "B",
+        "B",
+        "B"
+      ]
+    },
+    "99": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "100": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "A",
+        "NA"
+      ]
+    },
+    "101": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "102": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "103": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "B"
+      ]
+    },
+    "104": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "105": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "106": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "107": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "108": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "109": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "E"
+      ]
+    },
+    "110": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "111": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "C",
+        "A"
+      ]
+    },
+    "112": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "113": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "114": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "115": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "116": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "117": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "118": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "119": {
+      "exit": true,
+      "answer": "C",
+      "model_predictions": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "120": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "121": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "C"
+      ]
+    },
+    "122": {
+      "exit": true,
+      "answer": "D",
+      "model_predictions": [
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    "123": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "124": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "125": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "126": {
+      "exit": true,
+      "answer": "D",
+      "model_predictions": [
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    "127": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "128": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "129": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "130": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "131": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "132": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "133": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "D"
+      ]
+    },
+    "134": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "135": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "136": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "137": {
+      "exit": false,
+      "answer": "committing perjury",
+      "model_predictions": [
+        "NA",
+        "NA",
+        "NA"
+      ]
+    },
+    "138": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "139": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "D",
+        "B"
+      ]
+    },
+    "140": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "141": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "142": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "143": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "144": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "C"
+      ]
+    },
+    "145": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "D",
+        "NA"
+      ]
+    },
+    "146": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "B",
+        "C"
+      ]
+    },
+    "147": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "148": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "149": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "C",
+        "NA"
+      ]
+    },
+    "150": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "151": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "152": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "153": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "154": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "155": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "D"
+      ]
+    },
+    "156": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "157": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "D",
+        "NA"
+      ]
+    },
+    "158": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "159": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "160": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "161": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "162": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "163": {
+      "exit": true,
+      "answer": "B",
+      "model_predictions": [
+        "B",
+        "B",
+        "B"
+      ]
+    },
+    "164": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "165": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "166": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "167": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "168": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "169": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "170": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "B",
+        "NA"
+      ]
+    },
+    "171": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    "172": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "B",
+        "NA"
+      ]
+    },
+    "173": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "174": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "B",
+        "NA"
+      ]
+    },
+    "175": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "D",
+        "D"
+      ]
+    },
+    "176": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "177": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "178": {
+      "exit": true,
+      "answer": "C",
+      "model_predictions": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "179": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "180": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "181": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "182": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "D"
+      ]
+    },
+    "183": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "184": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "185": {
+      "exit": true,
+      "answer": "C",
+      "model_predictions": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "186": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "187": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "188": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "189": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "190": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "191": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "192": {
+      "exit": true,
+      "answer": "E",
+      "model_predictions": [
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    "193": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "194": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "C"
+      ]
+    },
+    "195": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "196": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "197": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "A"
+      ]
+    },
+    "198": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "199": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "200": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "D",
+        "NA"
+      ]
+    },
+    "201": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "B",
+        "NA"
+      ]
+    },
+    "202": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "203": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "204": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "E"
+      ]
+    },
+    "205": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "A",
+        "NA"
+      ]
+    },
+    "206": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "C",
+        "A"
+      ]
+    },
+    "207": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "A"
+      ]
+    },
+    "208": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "209": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "210": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "211": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "B",
+        "NA"
+      ]
+    },
+    "212": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "213": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "214": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "215": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "216": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "217": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "A"
+      ]
+    },
+    "218": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "B"
+      ]
+    },
+    "219": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "220": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "221": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "222": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "223": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "D",
+        "NA"
+      ]
+    },
+    "224": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "225": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "226": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "227": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "228": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "229": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "230": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "231": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "232": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "233": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "234": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "235": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "236": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "237": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "238": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "239": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "240": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "241": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "242": {
+      "exit": true,
+      "answer": "C",
+      "model_predictions": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "243": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "244": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "245": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "246": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "C"
+      ]
+    },
+    "247": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "C",
+        "NA"
+      ]
+    },
+    "248": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "249": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "250": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "251": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "252": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "D",
+        "NA"
+      ]
+    },
+    "253": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "254": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "255": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    "256": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "NA",
+        "NA",
+        "NA"
+      ]
+    },
+    "257": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "258": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "259": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "260": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "261": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "262": {
+      "exit": false,
+      "answer": "temperate zone",
+      "model_predictions": [
+        "NA",
+        "NA",
+        "NA"
+      ]
+    },
+    "263": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "D"
+      ]
+    },
+    "264": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "265": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "266": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "A",
+        "B"
+      ]
+    },
+    "267": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "268": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "269": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "C"
+      ]
+    },
+    "270": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "271": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "272": {
+      "exit": true,
+      "answer": "B",
+      "model_predictions": [
+        "B",
+        "B",
+        "B"
+      ]
+    },
+    "273": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "C",
+        "NA"
+      ]
+    },
+    "274": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "NA",
+        "NA"
+      ]
+    },
+    "275": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "276": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "C"
+      ]
+    },
+    "277": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "278": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "279": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "NA"
+      ]
+    },
+    "280": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "E",
+        "NA"
+      ]
+    },
+    "281": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "282": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "NA"
+      ]
+    },
+    "283": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "NA",
+        "B"
+      ]
+    },
+    "284": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "C",
+        "NA"
+      ]
+    },
+    "285": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "A",
+        "NA"
+      ]
+    },
+    "286": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "A",
+        "NA",
+        "A"
+      ]
+    },
+    "287": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "A",
+        "NA"
+      ]
+    },
+    "288": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "NA",
+        "NA"
+      ]
+    },
+    "289": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "D",
+        "E"
+      ]
+    },
+    "290": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "291": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "C",
+        "E",
+        "E"
+      ]
+    },
+    "292": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "NA"
+      ]
+    },
+    "293": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "A",
+        "NA"
+      ]
+    },
+    "294": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "NA",
+        "A"
+      ]
+    },
+    "295": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "296": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "D",
+        "E",
+        "NA"
+      ]
+    },
+    "297": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "B",
+        "B",
+        "NA"
+      ]
+    },
+    "298": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        "E",
+        "D",
+        "NA"
+      ]
+    },
+    "299": {
+      "exit": true,
+      "answer": "A",
+      "model_predictions": [
+        "A",
+        "A",
+        "A"
+      ]
+    }
+  }
+}

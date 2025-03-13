@@ -1,0 +1,1318 @@
+{
+  "overall_early_exit": {
+    "0": {
+      "exit": true,
+      "answer": "2",
+      "model_predictions": [
+        2,
+        2,
+        2
+      ]
+    },
+    "2": {
+      "exit": true,
+      "answer": "6",
+      "model_predictions": [
+        6,
+        6,
+        6
+      ]
+    },
+    "3": {
+      "exit": true,
+      "answer": "8",
+      "model_predictions": [
+        8,
+        8,
+        8
+      ]
+    },
+    "5": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        -4,
+        -4,
+        -4
+      ]
+    },
+    "6": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        5,
+        4,
+        3
+      ]
+    },
+    "7": {
+      "exit": true,
+      "answer": "12 entries per year",
+      "model_predictions": [
+        12,
+        12,
+        12
+      ]
+    },
+    "8": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        2,
+        4,
+        2
+      ]
+    },
+    "12": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        20,
+        20,
+        20
+      ]
+    },
+    "16": {
+      "exit": true,
+      "answer": "1",
+      "model_predictions": [
+        1,
+        1,
+        1
+      ]
+    },
+    "17": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        7541,
+        20,
+        10041
+      ]
+    },
+    "24": {
+      "exit": true,
+      "answer": "12 cm",
+      "model_predictions": [
+        12,
+        12,
+        12
+      ]
+    },
+    "25": {
+      "exit": true,
+      "answer": "2",
+      "model_predictions": [
+        2,
+        2,
+        2
+      ]
+    },
+    "26": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        null,
+        null,
+        null
+      ]
+    },
+    "27": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        24,
+        9,
+        16
+      ]
+    },
+    "28": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        6,
+        7,
+        4
+      ]
+    },
+    "29": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        2,
+        2,
+        1
+      ]
+    },
+    "32": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        20,
+        20,
+        20
+      ]
+    },
+    "33": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        2,
+        1
+      ]
+    },
+    "37": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        70,
+        24,
+        null
+      ]
+    },
+    "40": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        4,
+        5,
+        4
+      ]
+    },
+    "41": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        -7,
+        -7,
+        -7
+      ]
+    },
+    "42": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        5,
+        6,
+        6
+      ]
+    },
+    "43": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        4,
+        4,
+        3
+      ]
+    },
+    "48": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        6,
+        4,
+        6
+      ]
+    },
+    "49": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        92,
+        79.37,
+        66.67
+      ]
+    },
+    "51": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        3,
+        3,
+        3
+      ]
+    },
+    "53": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        7,
+        8.5,
+        6
+      ]
+    },
+    "54": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        2014,
+        2014,
+        2014
+      ]
+    },
+    "56": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        15,
+        35.2,
+        48.6
+      ]
+    },
+    "59": {
+      "exit": true,
+      "answer": "$3",
+      "model_predictions": [
+        3,
+        3,
+        3
+      ]
+    },
+    "60": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        267.92,
+        267.92,
+        267.92
+      ]
+    },
+    "61": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        2,
+        2.25,
+        2
+      ]
+    },
+    "65": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        7607,
+        1234567,
+        18
+      ]
+    },
+    "66": {
+      "exit": true,
+      "answer": "-6 shells per day",
+      "model_predictions": [
+        -6,
+        -6,
+        -6
+      ]
+    },
+    "67": {
+      "exit": true,
+      "answer": "3",
+      "model_predictions": [
+        3,
+        3,
+        3
+      ]
+    },
+    "68": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        1.6,
+        1.6,
+        1.6
+      ]
+    },
+    "70": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        2,
+        null
+      ]
+    },
+    "76": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        30,
+        46,
+        46
+      ]
+    },
+    "77": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        11.76,
+        11.76,
+        11.76
+      ]
+    },
+    "78": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        0,
+        1,
+        null
+      ]
+    },
+    "80": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        3,
+        3,
+        3
+      ]
+    },
+    "82": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        6,
+        8,
+        5
+      ]
+    },
+    "83": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    "84": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        30,
+        15,
+        null
+      ]
+    },
+    "85": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        10,
+        null
+      ]
+    },
+    "86": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        8,
+        10,
+        6
+      ]
+    },
+    "88": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        73,
+        18,
+        63
+      ]
+    },
+    "92": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        5,
+        6,
+        5
+      ]
+    },
+    "94": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        13,
+        1,
+        125
+      ]
+    },
+    "95": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        0,
+        0,
+        0
+      ]
+    },
+    "98": {
+      "exit": true,
+      "answer": "3",
+      "model_predictions": [
+        3,
+        3,
+        3
+      ]
+    },
+    "99": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        30,
+        null
+      ]
+    },
+    "101": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        21,
+        16,
+        17
+      ]
+    },
+    "102": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        14,
+        14,
+        14
+      ]
+    },
+    "103": {
+      "exit": true,
+      "answer": "15",
+      "model_predictions": [
+        15,
+        15,
+        15
+      ]
+    },
+    "104": {
+      "exit": true,
+      "answer": "3",
+      "model_predictions": [
+        3,
+        3,
+        3
+      ]
+    },
+    "106": {
+      "exit": true,
+      "answer": "25%",
+      "model_predictions": [
+        25,
+        25,
+        25
+      ]
+    },
+    "109": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        2,
+        3,
+        3
+      ]
+    },
+    "110": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        4,
+        2
+      ]
+    },
+    "113": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        1,
+        0
+      ]
+    },
+    "114": {
+      "exit": true,
+      "answer": "0",
+      "model_predictions": [
+        0,
+        0,
+        0
+      ]
+    },
+    "117": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        18,
+        7,
+        8
+      ]
+    },
+    "119": {
+      "exit": true,
+      "answer": "56",
+      "model_predictions": [
+        56,
+        56,
+        56
+      ]
+    },
+    "120": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        44,
+        22,
+        44
+      ]
+    },
+    "123": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        6,
+        6,
+        6
+      ]
+    },
+    "126": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        0,
+        1
+      ]
+    },
+    "127": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        9,
+        7,
+        6
+      ]
+    },
+    "128": {
+      "exit": true,
+      "answer": "28.3",
+      "model_predictions": [
+        28.3,
+        28.3,
+        28.3
+      ]
+    },
+    "130": {
+      "exit": true,
+      "answer": "7",
+      "model_predictions": [
+        7,
+        7,
+        7
+      ]
+    },
+    "131": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        2,
+        2,
+        2
+      ]
+    },
+    "134": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        null,
+        null,
+        null
+      ]
+    },
+    "137": {
+      "exit": true,
+      "answer": "1",
+      "model_predictions": [
+        1,
+        1,
+        1
+      ]
+    },
+    "138": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        0.25,
+        4,
+        0.25
+      ]
+    },
+    "139": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        4,
+        4,
+        4
+      ]
+    },
+    "141": {
+      "exit": true,
+      "answer": "$24.52",
+      "model_predictions": [
+        24.52,
+        24.52,
+        24.52
+      ]
+    },
+    "143": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        46,
+        85,
+        89
+      ]
+    },
+    "144": {
+      "exit": true,
+      "answer": "216",
+      "model_predictions": [
+        216,
+        216,
+        216
+      ]
+    },
+    "145": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        null,
+        null,
+        null
+      ]
+    },
+    "150": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        4,
+        5,
+        4
+      ]
+    },
+    "151": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        51,
+        2.59,
+        3.5
+      ]
+    },
+    "153": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        0,
+        null
+      ]
+    },
+    "154": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        3,
+        3
+      ]
+    },
+    "155": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        4.9,
+        5,
+        2007
+      ]
+    },
+    "161": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        10,
+        12,
+        20
+      ]
+    },
+    "164": {
+      "exit": true,
+      "answer": "4",
+      "model_predictions": [
+        4,
+        4,
+        4
+      ]
+    },
+    "165": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        3,
+        1
+      ]
+    },
+    "169": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        7,
+        5,
+        6
+      ]
+    },
+    "171": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        4,
+        2,
+        4
+      ]
+    },
+    "172": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        6,
+        4,
+        6
+      ]
+    },
+    "178": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        2,
+        3
+      ]
+    },
+    "184": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        2,
+        2
+      ]
+    },
+    "185": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        3,
+        1
+      ]
+    },
+    "187": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        6,
+        3,
+        3
+      ]
+    },
+    "189": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        54,
+        50,
+        54
+      ]
+    },
+    "190": {
+      "exit": true,
+      "answer": "2",
+      "model_predictions": [
+        2,
+        2,
+        2
+      ]
+    },
+    "191": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        5,
+        5,
+        5
+      ]
+    },
+    "192": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        5,
+        7,
+        4
+      ]
+    },
+    "193": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        33,
+        null
+      ]
+    },
+    "196": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        30,
+        20,
+        40
+      ]
+    },
+    "197": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        41.16,
+        41.16,
+        41.16
+      ]
+    },
+    "199": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        3,
+        3,
+        3
+      ]
+    },
+    "200": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        5,
+        5,
+        4
+      ]
+    },
+    "201": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        2,
+        3
+      ]
+    },
+    "204": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        80,
+        80,
+        90
+      ]
+    },
+    "207": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        5,
+        3
+      ]
+    },
+    "210": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        6,
+        7,
+        5
+      ]
+    },
+    "211": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        7,
+        9,
+        6
+      ]
+    },
+    "213": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        2620,
+        1000,
+        100
+      ]
+    },
+    "215": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        -1,
+        1
+      ]
+    },
+    "216": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        10,
+        6,
+        7
+      ]
+    },
+    "219": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3.8992,
+        3.8982,
+        389.58
+      ]
+    },
+    "221": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        100,
+        90,
+        70
+      ]
+    },
+    "223": {
+      "exit": true,
+      "answer": "12 cm",
+      "model_predictions": [
+        12,
+        12,
+        12
+      ]
+    },
+    "224": {
+      "exit": true,
+      "answer": "20",
+      "model_predictions": [
+        20,
+        20,
+        20
+      ]
+    },
+    "227": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        10,
+        null
+      ]
+    },
+    "228": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        0,
+        null
+      ]
+    },
+    "229": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        2,
+        2
+      ]
+    },
+    "235": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        4,
+        3
+      ]
+    },
+    "237": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        10,
+        0
+      ]
+    },
+    "238": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        14,
+        null
+      ]
+    },
+    "240": {
+      "exit": true,
+      "answer": "2",
+      "model_predictions": [
+        2,
+        2,
+        2
+      ]
+    },
+    "241": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        3,
+        2
+      ]
+    },
+    "242": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        2010,
+        2010,
+        2010
+      ]
+    },
+    "243": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        7,
+        5,
+        5
+      ]
+    },
+    "245": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        80,
+        70,
+        60
+      ]
+    },
+    "248": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        13,
+        9,
+        12
+      ]
+    },
+    "252": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        50,
+        44,
+        44
+      ]
+    },
+    "255": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        5,
+        5,
+        4
+      ]
+    },
+    "256": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        20,
+        21,
+        24
+      ]
+    },
+    "257": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        75,
+        75,
+        40
+      ]
+    },
+    "258": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        1,
+        6
+      ]
+    },
+    "260": {
+      "exit": true,
+      "answer": "5",
+      "model_predictions": [
+        5,
+        5,
+        5
+      ]
+    },
+    "263": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        40,
+        60,
+        32
+      ]
+    },
+    "265": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        635.22,
+        635.22,
+        634.22
+      ]
+    },
+    "267": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        11,
+        23,
+        8
+      ]
+    },
+    "268": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        9,
+        9,
+        7
+      ]
+    },
+    "272": {
+      "exit": true,
+      "answer": null,
+      "model_predictions": [
+        null,
+        null,
+        null
+      ]
+    },
+    "278": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        1,
+        4,
+        2
+      ]
+    },
+    "279": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        3,
+        2.1,
+        2
+      ]
+    },
+    "281": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        2,
+        2,
+        3
+      ]
+    },
+    "283": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        8,
+        6,
+        6
+      ]
+    },
+    "284": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        59.9,
+        80,
+        null
+      ]
+    },
+    "285": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        null,
+        10,
+        null
+      ]
+    },
+    "296": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        141,
+        141,
+        108
+      ]
+    },
+    "297": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        8,
+        5,
+        4
+      ]
+    },
+    "299": {
+      "exit": false,
+      "answer": null,
+      "model_predictions": [
+        6,
+        7,
+        4
+      ]
+    }
+  }
+}
